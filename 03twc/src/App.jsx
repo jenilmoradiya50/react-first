@@ -13,7 +13,7 @@ function App() {
         Vite with Tailwind-css
       </h1>
       <Card username="John Doe"/>
-      <Card />
+      <Card username="Virat Kohli" post="Berojgar"/>
       <Card />
     </>
   );

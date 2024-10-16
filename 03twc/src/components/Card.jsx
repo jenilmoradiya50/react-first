@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Card(props,{username = "Not yet", post= "not assigned yet"}) {
+function Card({username = "Not yet", post= "not assigned yet"}) {
 
   
   return (
